@@ -343,68 +343,97 @@ Not in any sort of order
 * [High School Districts](https://data.smcgov.org/Education/High-School-Districts/n487-e7f4)
 
 
-# San Mateo/Bay Area
-[Village Green discussion of bayarea election data available](http://www.bionictoad.com/village/)
-[SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
-[SMC Open Data Performance tracking](https://performance.smcgov.org/en/stat/goals/single/fspv-vjm9)
-[Data OpenSMC is looking for](https://github.com/opensmc/service-locator/blob/master/docs/designnotes.md)
-[ArcGIS REST Services Directory](https://maps.smcgov.org/arcgis/rest/services)
-[ArcGIS REST Services COMMON dataset](https://maps.smcgov.org/arcgis/rest/services/COMMON)  
-[ArcGIS REST API documentation: Map Service ](http://maps.smcgov.org/arcgis/sdk/rest/index.html#//02ss0000006v000000)
-  Maps and features.
-[ArcGIS My Map](https://www.arcgis.com/home/webmap/viewer.html)
-[ArcGIS REST Services Directory GISPORTAL - PARCEL_LABELS](http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/PARCEL_LABELS/MapServer/)  
+* [Village Green discussion of bayarea election data available](http://www.bionictoad.com/village/)
+
+* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
+
+* [SMC Open Data Performance tracking](https://performance.smcgov.org/en/stat/goals/single/fspv-vjm9)
+
+* [Data OpenSMC is looking for](https://github.com/opensmc/service-locator/blob/master/docs/designnotes.md)
+
+* [ArcGIS REST Services Directory](https://maps.smcgov.org/arcgis/rest/services)  
+* [ArcGIS REST Services COMMON dataset](https://maps.smcgov.org/arcgis/rest/services/COMMON)  
+* [ArcGIS REST API documentation: Map Service ](http://maps.smcgov.org/arcgis/sdk/rest/index.html#//02ss0000006v000000)  
+  Maps and features.  
+* [ArcGIS My Map](https://www.arcgis.com/home/webmap/viewer.html)  
+* [ArcGIS REST Services Directory GISPORTAL - PARCEL_LABELS](http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/PARCEL_LABELS/MapServer/)  
 Assessors Parcel Data
-[211 Bay Area](http://211bayarea.org/)  
+
+* [211 Bay Area](http://211bayarea.org/)  
 211 service directory information.  
 Run by United Way.
+
 SMC Treasurer-Tax Collector's [Secured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/secureSearch.jsp)  
-  Search by Assessor Parcel Number (APN).
+  Search by Assessor Parcel Number (APN).  
 SMC Treasurer-Tax Collector's [Unecured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/unSecSearch.jsp)  
   Search by Parcel or  Address or  Account
-[SMC Assessor's detailed parcel query form](http://gis.co.sanmateo.ca.us/countygis/applications/gisapp_PropReviewMap.asp?APN=032167140)
-Replace 032167140 with your APN number
-[SamTrans Developer Datasets](http://www.samtrans.com/Developer.html)  
-  SamTrans provides official bus schedules, maps and fare information in the open General Transit Feed Specification (GTFS).
-[OpenTrails Data](http://www.opentraildata.org/)
-[DATA.GOV SMC Search](https://catalog.data.gov/dataset?tags=san+mateo+county)
-[SMC-Connect / Ohana API Server](https://ohana-api-demo.herokuapp.com/)  
-  Ohana API developer portal
-[City of San Mateo MyStreets (MyStreetMap???)](http://gis.cityofsanmateo.org/mygovernmentservices/)
-  City GIS style ArcGIS map of MySreet
-[SeeClickFix, San Mateo County, CA](http://en.seeclickfix.com/san-mateo-county)
-[SeeClickFix, San Mateo County, CA
-[SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
-[Redwood City Community GIS Porta;](webgis.redwoodcity.org/community/)  
-  Best GIS portal I have seen.  Great layout.  Lots of space for the map.
-[Redwood City Planning Dept TRAKiT](http://pdatrakit.redwoodcity.org/ActivitySearch.aspx)
-[San Mateo County Office of Education (SMCOE)](http://www.smcoe.org/)
-[City of San Mateo Web Site](http://www.cityofsanmateo.org/index.aspx)
-  CivicPlus Web Site
-[City of San Mateo GIS Map Portal](http://www.cityofsanmateo.org/index.aspx?NID=2217)
-[Municode for SMC, CA](https://www2.municode.com/library/ca/san_mateo_county/codes/code_of_ordinances)
-[SMC Public WOrks Standard Drawings](http://publicworks.smcgov.org/standard-drawings-driveways-sidewalks-trenches-etc)  
-  Driveways, sidewalks, trenches, etc
-[SMC Human Services Center on Homelessness](http://hsa.smcgov.org/center-homelessness)
-[SMC Health and Human Services Adult Mental Health Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/Adult-Mental-Health-Services.aspx)
-[SMC Health and Human Services Mental Health Crisis Residential Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/SP-Crisis-Residential-Services.aspx)
-  Not a dataset
-[City of South San Francisco Web site](http://ssf.net/)
-  CivicPlus web site.
-[San Mateo 911 Fire Dispach](http://www.firedispatch.com/)
-  Realtime 911 dispach data.
-  No API access
-[DATAUSA.io San Mateo, CA](http://datausa.io/profile/geo/san-mateo-ca/)
-  San Mateo demographics
-[SMC Elections Office Election Results](https://www.shapethefuture.org/elections/results/)
-Not a dataset
-[SMC Planning and Building Online Permit Center](https://aca.accela.com/smcgov/)
-[Ballotpedia: San Mateo County, California ballot measures](https://ballotpedia.org/San_Mateo_County,_California_ballot_measures)
-[Bayarea Metropolita Transportation Commission (MTC)](http://mtc.ca.gov/)
-)
-[Bayarea MTA VitalSigns Open Data portal](http://www.vitalsigns.mtc.ca.gov/)
-[Metropolitan Transportation Commission (MTC) Vital Signs Open Data](http://www.vitalsigns.mtc.ca.gov/data-center)
 
-[Bayarea MTA VitalSigns Open Data APIs](http://www.vitalsigns.mtc.ca.gov/data-center)
-[SMC-Connect Ohana API Documentation](https://codeforamerica.github.io/ohana-api-docs)
+* [SMC Assessor's detailed parcel query form](http://gis.co.sanmateo.ca.us/countygis/applications/gisapp_PropReviewMap.asp?APN=032167140)  
+Replace 032167140 with your APN number
+
+* [SamTrans Developer Datasets](http://www.samtrans.com/Developer.html)  
+  SamTrans provides official bus schedules, maps and fare information in the open General Transit Feed Specification (GTFS).
+
+* [OpenTrails Data](http://www.opentraildata.org/)
+
+* [DATA.GOV SMC Search](https://catalog.data.gov/dataset?tags=san+mateo+county)
+
+* [SMC-Connect / Ohana API Server](https://ohana-api-demo.herokuapp.com/)  
+  Ohana API developer portal
+
+* [City of San Mateo MyStreets (MyStreetMap???)](http://gis.cityofsanmateo.org/mygovernmentservices/)  
+  City GIS style ArcGIS map of MySreet
+
+* [SeeClickFix, San Mateo County, CA](http://en.seeclickfix.com/san-mateo-county)
+
+* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
+
+* [Redwood City Community GIS Porta;](webgis.redwoodcity.org/community/)  
+  Best GIS portal I have seen.  Great layout.  Lots of space for the map.
+
+* [Redwood City Planning Dept TRAKiT](http://pdatrakit.redwoodcity.org/ActivitySearch.aspx)
+
+* [San Mateo County Office of Education (SMCOE)](http://www.smcoe.org/)
+
+* [City of San Mateo Web Site](http://www.cityofsanmateo.org/index.aspx)  
+  CivicPlus Web Site
+
+* [City of San Mateo GIS Map Portal](http://www.cityofsanmateo.org/index.aspx?NID=2217)
+
+* [Municode for SMC, CA](https://www2.municode.com/library/ca/san_mateo_county/codes/code_of_ordinances)
+
+* [SMC Public WOrks Standard Drawings](http://publicworks.smcgov.org/standard-drawings-driveways-sidewalks-trenches-etc)  
+  Driveways, sidewalks, trenches, etc
+
+* [SMC Human Services Center on Homelessness](http://hsa.smcgov.org/center-homelessness)
+
+* [SMC Health and Human Services Adult Mental Health Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/Adult-Mental-Health-Services.aspx)
+
+* [SMC Health and Human Services Mental Health Crisis Residential Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/SP-Crisis-Residential-Services.aspx)  
+  Not a dataset
+
+* [City of South San Francisco Web site](http://ssf.net/)  
+  CivicPlus web site.
+
+* [San Mateo 911 Fire Dispach](http://www.firedispatch.com/)  
+  Realtime 911 dispach data.  
+  No API access
+
+* [DATAUSA.io San Mateo, CA](http://datausa.io/profile/geo/san-mateo-ca/)  
+  San Mateo demographics
+
+* [SMC Elections Office Election Results](https://www.shapethefuture.org/elections/results/)  
+Not a dataset
+
+* [SMC Planning and Building Online Permit Center](https://aca.accela.com/smcgov/)
+
+* [Ballotpedia: San Mateo County, California ballot measures](https://ballotpedia.org/San_Mateo_County,_California_ballot_measures)
+
+* [Bayarea Metropolita Transportation Commission (MTC)](http://mtc.ca.gov/)
+)
+* [Bayarea MTA VitalSigns Open Data portal](http://www.vitalsigns.mtc.ca.gov/)  
+* [Metropolitan Transportation Commission (MTC) Vital Signs Open Data](http://www.vitalsigns.mtc.ca.gov/data-center)
+
+
+* [SMC-Connect Ohana API Documentation](https://codeforamerica.github.io/ohana-api-docs)
 

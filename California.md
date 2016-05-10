@@ -22,19 +22,29 @@ SWITRS) Raw Data](http://iswitrs.chp.ca.gov/Reports/jsp/RawData.jsp)
 
 
 # California
-[Sunlight Foundation Open States](http://tryit.sunlightfoundation.com/openstates)  
+
+* [Sunlight Foundation Open States](http://tryit.sunlightfoundation.com/openstates) 
   State government legislative Open Data including bills and legislator Lookup
-[Search the California School Directory](http://www.cde.ca.gov/re/sd/index.asp)
-[File Structure: Public Schools and Districts](http://www.cde.ca.gov/ds/si/ds/fspubschls.asp)
-[California School Directory: San Mateo County Office of Education](http://www.cde.ca.gov/re/sd/details.asp?cds=41104130000000&public=Y)/
-[California School Student & School Data Files](http://www.cde.ca.gov/ds/sd/sd/)
-[California School School Code Assignment](http://www.cde.ca.gov/ds/si/ds/cdsassignment.asp)
-[California Roster: a listing of California's public officeholders](http://www.sos.ca.gov/administration/california-roster/)
+
+* [Search the California School Directory](http://www.cde.ca.gov/re/sd/index.asp)
+
+* [File Structure: Public Schools and Districts](http://www.cde.ca.gov/ds/si/ds/fspubschls.asp)
+
+* [California School Directory: San Mateo County Office of Education](http://www.cde.ca.gov/re/sd/details.asp?cds=41104130000000&public=Y)/
+
+* [California School Student & School Data Files](http://www.cde.ca.gov/ds/sd/sd/)
+
+* [California School School Code Assignment](http://www.cde.ca.gov/ds/si/ds/cdsassignment.asp)
+
+* [California Roster: a listing of California's public officeholders](http://www.sos.ca.gov/administration/california-roster/)  
 Includs United States government officials, the Constitutional officers, members of the State Senate and Assembly, the Judicial branch, county officials, and Incorporated city and town officials.
-[Calif Dept of Social Servcies Licensed Care Facility CVS data download](https://secure.dss.ca.gov/CareFacilitySearch/Home/DownloadData)
+
+* [Calif Dept of Social Servcies Licensed Care Facility CVS data download](https://secure.dss.ca.gov/CareFacilitySearch/Home/DownloadData)  
 Source of data.smcgov.org ??? dataset
-[State of California Legislative Information](https://leginfo.legislature.ca.gov/faces/codes.xhtml)
+
+* [State of California Legislative Information](https://leginfo.legislature.ca.gov/faces/codes.xhtml)  
 Califonria's published law
-[WestNext  California Code of Regulations](https://govt.westlaw.com/calregs/index)
+
+* [WestNext  California Code of Regulations](https://govt.westlaw.com/calregs/index)  
 Thomson Reuters's California Code of Regulations
 
