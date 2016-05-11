@@ -9,33 +9,33 @@ date:   2016-05-05 18:00:00
 
 # Dataset and Data Sources for San Mateo County and greater Bayarea
 
-[Elections](elections)
+[Elections](#elections)
 
-[Transportation](transportation)
+[Transportation](#transportation)
 
-[County finance](county-finance)
+[County finance](#county-finance)
 
-[Health department, food](health-department-food)
+[Health department, food](#health-department-food)
 
-[Education](education)
+[Education](#education)
 
-[Housing](housing)
+[Housing](#housing)
 
-[Poverty, low income](poverty-low-income)
+[Poverty, low income](#poverty-low-income)
 
-[Sustainable San Mateo County](sustainable-san-mateo-county)
+[Sustainable San Mateo County](#sustainable-san-mateo-county)
 
-[Homeless](homeless)
+[Homeless](#homeless)
 
-[Development](development)
+[Development](#development)
 
-[Human services](human-services)
+[Human services](#human-services)
 
-[Children](children)
+[Children](#children)
 
-[Elderly](elderly)
+[Elderly](#elderly)
 
-[County services/requests](county-services/requests)
+[County services/requests](#county-services/requests)
 
 
 ## Elections
