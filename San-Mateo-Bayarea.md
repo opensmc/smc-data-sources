@@ -7,11 +7,36 @@ title:  "OpenSMC and Hack-SMC - Interesting Datasets on San Mateo County's Open 
 date:   2016-05-05 18:00:00
 ---
 
-## Preliminary list of datasets
+# Dataset and Data Sources for San Mateo County and greater Bayarea
 
-Not in any sort of order
+[Elections](elections)
 
-#Interesting datasets on the Open Data Poral
+[Transportation](transportation)
+
+[County finance](county-finance)
+
+[Health department, food](health-department-food)
+
+[Education](education)
+
+[Housing](housing)
+
+[Poverty, low income](poverty-low-income)
+
+[Sustainable San Mateo County](sustainable-san-mateo-county)
+
+[Homeless](homeless)
+
+[Development](development)
+
+[Human services](human-services)
+
+[Children](children)
+
+[Elderly](elderly)
+
+[County services/requests](county-services/requests)
+
 
 ## Elections
 
@@ -363,9 +388,9 @@ Assessors Parcel Data
 211 service directory information.  
 Run by United Way.
 
-SMC Treasurer-Tax Collector's [Secured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/secureSearch.jsp)  
+* SMC Treasurer-Tax Collector's [Secured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/secureSearch.jsp)  
   Search by Assessor Parcel Number (APN).  
-SMC Treasurer-Tax Collector's [Unecured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/unSecSearch.jsp)  
+* SMC Treasurer-Tax Collector's [Unecured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/unSecSearch.jsp)  
   Search by Parcel or  Address or  Account
 
 * [SMC Assessor's detailed parcel query form](http://gis.co.sanmateo.ca.us/countygis/applications/gisapp_PropReviewMap.asp?APN=032167140)  
