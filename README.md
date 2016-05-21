@@ -1,6 +1,6 @@
 # smc-data-sources
 
-[[San-Mateo-Bayarea.md]]
+[San-Mateo-Bayarea.md](https://github.com/opensmc/smc-data-sources/blob/gh-pages/San-Mateo-Bayarea.md)
 
 https://github.com/opensmc/smc-data-sources/blob/gh-pages/California.md
 
