@@ -1,9 +1,9 @@
 # smc-data-sources
 
-San-Mateo-Bayarea.md
+[[San-Mateo-Bayarea.md]]
 
-California.md
+https://github.com/opensmc/smc-data-sources/blob/gh-pages/California.md
 
-Federal-National-World.md
+https://github.com/opensmc/smc-data-sources/blob/gh-pages/Federal-National-World.md
 
-Developer-Resources.md
+https://github.com/opensmc/smc-data-sources/blob/gh-pages/Developer-Resources.md
