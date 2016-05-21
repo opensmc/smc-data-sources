@@ -11,6 +11,8 @@ date:   2016-05-05 18:00:00
 
 [Elections](#elections)
 
+[SMC Assessor/Treasurer](smc-assessor-treasurer)
+
 [Transportation](#transportation)
 
 [County finance](#county-finance)
@@ -27,7 +29,7 @@ date:   2016-05-05 18:00:00
 
 [Homeless](#homeless)
 
-[Development](#development)
+[Planning and Building](#planning-and-development)
 
 [Human services](#human-services)
 
@@ -35,10 +37,19 @@ date:   2016-05-05 18:00:00
 
 [Elderly](#elderly)
 
-[County services/requests](#county-services/requests)
+[County services/requests](#county-services-requests)
 
+[Parks and Open Space](#parks-and-open-space)
+
+[County services/requests](county-services-requests)
+
+[Useful development data sets](useful-development-data-sets)
+
+[Public Services](public-services)
 
 ## Elections
+
+### data.smcgov.org Open Data
 
 * [Statement Of the Vote Official Election results, 2008-2015](https://data.smcgov.org/Government/Election-results/chpj-588r)  
   Per precinct, per cadndiate, per ballot measure restults  
@@ -46,7 +57,36 @@ date:   2016-05-05 18:00:00
 
 * [Election Precinct Boundaries](https://data.smcgov.org/Government/Election-Precincts/ywc5-qcr8)
 
+* [Local Government Map](https://data.smcgov.org/Government/Local-Government-Map/96hc-gfis)  
+  [Assembly Districts](https://data.smcgov.org/Government/Assembly-Districts/4nu7-mmwa)  
+  [Senate Districts](https://data.smcgov.org/Government/Senate-Districts/bnnz-szvq)  
+  [Supervisor Districts](https://data.smcgov.org/Government/Supervisor-Districts/hsui-yfkm)  
+  [Supervisor Districts Land Only](https://data.smcgov.org/Government/Supervisor-Districts-Land-Only/99ji-5gty)  
+  Supervisorial, Assembly districts, and election precincts in San mateo County.
+
+### Other Public Data Sources
+
+* [SMC Elections Office Election Results](https://www.shapethefuture.org/elections/results/)  
+Not a dataset
+
+* [Ballotpedia: San Mateo County, California ballot measures](https://ballotpedia.org/San_Mateo_County,_California_ballot_measures)
+
+* [Village Green discussion of bayarea election data available](http://www.bionictoad.com/village/)
+
+## SMC Assessor/Treasurer
+
+### Other Public Data Sources
+* SMC Treasurer-Tax Collector's [Secured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/secureSearch.jsp)  
+  Search by Assessor Parcel Number (APN).  
+* SMC Treasurer-Tax Collector's [Unecured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/unSecSearch.jsp)  
+  Search by Parcel or  Address or  Account
+
+* [SMC Assessor's detailed parcel query form](http://gis.co.sanmateo.ca.us/countygis/applications/gisapp_PropReviewMap.asp?APN=032167140)  
+Replace 032167140 with your APN number
+
 ## Transportation
+
+### data.smcgov.org Open Data
 
 * [SamTrans Bus Stops](https://data.smcgov.org/Transportation/samTrans-Bus-Stops/xwkc-9p4f)  
   Location of every SamTrans bus stop.  
@@ -57,12 +97,37 @@ date:   2016-05-05 18:00:00
   Created from samTrans General Transit Feed Specification (GTFS) data  
   Geojson data.
   
+* [samTrans Bus Routes](https://data.smcgov.org/Transportation/samTrans-Bus-Routes/ibrw-4fgd)  
+  Created from samTrans General Transit Feed Specification (GTFS) data
+
+* [Caltrain Route](https://data.smcgov.org/Transportation/Caltrain-Routes/upph-wy44)  
+  [Caltrain Stations and Stops](https://data.smcgov.org/Transportation/Caltrain-Stations-and-Stops/jzd3-rqcd)  
+  Created from the Caltrain General Transit Feed Specification (GTFS) data
+  Geojson data.
+
+* [BART Station Entrances](https://data.smcgov.org/Transportation/BART-Station-Entrances/e5hr-a4sk)  
+  [BART Lines](https://data.smcgov.org/Transportation/BART-Lines/ni6s-89wu)  
+  Geojson data.
+
+* [SamTrans Developer Datasets](http://www.samtrans.com/Developer.html)  
+  SamTrans provides official bus schedules, maps and fare information in the open General Transit Feed Specification (GTFS).
+
+### Other Public Data Sources
+
+* [Bayarea Metropolita Transportation Commission (MTC)](http://mtc.ca.gov/)
+)
+* [Bayarea MTA VitalSigns Open Data portal](http://www.vitalsigns.mtc.ca.gov/)  
+* [Metropolitan Transportation Commission (MTC) Vital Signs Open Data](http://www.vitalsigns.mtc.ca.gov/data-center)
 
 * [Active Transportation Projects in San Mateo County](https://data.smcgov.org/Transportation/Active-Transportation-Projects-in-San-Mateo-County/miht-8rmd)  
   [Active Transportation Projects Map](https://data.smcgov.org/Transportation/Active-Transportation-Projects-Map/uqgz-rpb9)  
   Updated June 9, 2015
 
+### Other Public Data Sources
+
 ## County finance
+
+### data.smcgov.org Open Data
 
 * [Checkbook Live Data](https://data.smcgov.org/Government/Checkbook-Live-Data/2iub-ptbz)  
   Every payment over $1,000.  Accessable via an API
@@ -73,7 +138,15 @@ date:   2016-05-05 18:00:00
   Government Compensation for County, cities and courts  
   Needs to be updated with current data by County.
 
+* [Locations for Measure A Maps](https://data.smcgov.org/Government/Locations-for-Measure-A-Maps/j37i-tsr5)  
+  [Locations for Measure A Maps map](https://data.smcgov.org/Government/Locations-for-Measure-A-Maps-map/vy6h-fjvb)  
+  Updated March, 2016
+
+### Other Public Data Sources
+
 ## Health department, food
+
+### data.smcgov.org Open Data
 
 * [Restaurant Health Inspections](https://data.smcgov.org/Health-Human-Services/Restaurant-Health-Inspections/pjzf-pe8z)  
   [Restaurant Map](https://data.smcgov.org/Health-Human-Services/Restaurant-Map/7edf-r3sc)  
@@ -89,7 +162,11 @@ date:   2016-05-05 18:00:00
 * [San Mateo County Convention and Visitors Bureau Farmers Markets for 2015](https://data.smcgov.org/Business/San-Mateo-County-Convention-and-Visitors-Bureau-Fa/e885-229h)  
   [San Mateo Convention and Visitors Bureau Farmers Markets Map for 2015](https://data.smcgov.org/Business/San-Mateo-Convention-and-Visitors-Bureau-Farmers-M/ypw4-6zbx)
 
+### Other Public Data Sources
+
 ## Education
+
+### data.smcgov.org Open Data
 
 * [Elementary School Districts](https://data.smcgov.org/Education/Elementary-School-Districts/6rxa-epd7)  
   Elementary School District Boundaries (geojson)
@@ -107,7 +184,16 @@ date:   2016-05-05 18:00:00
 
 * [School locations](https://data.smcgov.org/Education/School-locations/rx3p-cevh)  
   [School location Map](https://data.smcgov.org/Education/Schools-of-San-Mateo-County/eccj-3ve6)
+
+* [High School Districts](https://data.smcgov.org/Education/High-School-Districts/n487-e7f4)
+
+### Other Public Data Sources
+
+* [San Mateo County Office of Education (SMCOE)](http://www.smcoe.org/)
+
 ## Housing
+
+### data.smcgov.org Open Data
 
 * [County Assisted Affordable Housing Projects 2003 - 2014](https://data.smcgov.org/Housing-Development/County-Assisted-Affordable-Housing-Projects-2003-2/e98j-4bd7)  
   [County Assisted Affordable Housing Projects](https://data.smcgov.org/Housing-Development/County-Assisted-Affordable-Housing-Projects-Map-20/kgin-w9s7)
@@ -137,7 +223,17 @@ date:   2016-05-05 18:00:00
 
 * [Home Sales in SMC, 2001-2015](https://data.smcgov.org/Housing-Development/Home-Sales/mtgd-p58n)
 
+* [SMC Open Data Performance tracking](https://performance.smcgov.org/en/stat/goals/single/fspv-vjm9)
+
+### Other Public Data Sources
+
+* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
+
+* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
+
 ## Poverty, low income
+
+### data.smcgov.org Open Data
 
 * [General Economic Characteristics, 2014/](https://data.smcgov.org/Government/General-Economic-Characteristics/hc8q-64yd)  
   [Median Household Income by City](https://data.smcgov.org/Government/Median-Household-Income-by-City/heqe-kujm)  
@@ -155,7 +251,11 @@ date:   2016-05-05 18:00:00
   The County Vulnerability Index is a tool used to illustrate community vulnerability in the County based on a number of indicators  
   Needs to be updated with current data by County.
 
+### Other Public Data Sources
+
 ## Sustainable San Mateo County
+
+### data.smcgov.org Open Data
 
 * [Recycling Diversion Rates 2000 - 2006](https://data.smcgov.org/Environment/Recycling-Diversion-Rates-2000-2006/2xwi-v4n8)  
   Needs to be updated with current data by County.
@@ -183,7 +283,24 @@ date:   2016-05-05 18:00:00
 * [Countywide Waste by Destination 1995 - 2013](https://data.smcgov.org/Environment/Countywide-Waste-by-Destination-1995-2013/5zdb-fcbs)  
   Needs to be updated with current data by County.
 
+* [Solid Waste Sites](https://data.smcgov.org/Environment/Solid-Waste-Sites/t7gz-qn8a)  
+  [Solid Waste Sites Map](https://data.smcgov.org/Environment/Solid-Waste-Sites-Map/6y3f-3ryi)
+
+* [Solid Waste Sites](https://data.smcgov.org/Environment/Solid-Waste-Sites/t7gz-qn8a)  
+  [Solid Waste Sites Map](https://data.smcgov.org/Environment/Solid-Waste-Sites-Map/6y3f-3ryi)
+
+* [Water Supply and Source Boundaries](https://data.smcgov.org/Housing-Development/Water-Supply-and-Sources/pzq7-uphk)  
+  Click on area to see details.
+
+* [Fire Hazard Boundaries](https://data.smcgov.org/Government/Fire-Hazard-Boundaries/f6y6-nwd3)  
+  [Fire Hazards State and Local Responsibility Areas](https://data.smcgov.org/Housing-Development/Fire-Hazards-State-and-Local-Responsibility-Areas/ctq4-9kpp)  
+  Geojson data.
+
+### Other Public Data Sources
+
 ## Homeless
+
+### data.smcgov.org Open Data
 
 * [Homeless Census by Census Tract](https://data.smcgov.org/Health-Human-Services/Homeless-Census-by-Census-Tract/wcti-wwj6)  
   One year only.  Not sure what year.
@@ -198,13 +315,49 @@ date:   2016-05-05 18:00:00
 
 * [Homeless Census Counts from Shelters , 2009-2015](https://data.smcgov.org/Health-Human-Services/Homeless-Census-Counts-from-Shelters/d5x4-z7je)
 
-## Development
+### Other Public Data Sources
+
+## Planning and Development
+
+### data.smcgov.org Open Data
 
 * [Issued Building Permits](https://data.smcgov.org/Housing-Development/Issued-Building-Permits/9gyj-pwg4)  
   Unincorporated SMC only.  
   Needs to be updated with current data by County.
 
+* [General Plan Land Use for San Mateo County](https://data.smcgov.org/Government/General-Plan-Land-Use-for-San-Mateo-County/f2wq-qjt4)  
+  Land use type boundaries in unincorporated San Mateo County.
+
+### Other Public Data Sources
+
+* [Redwood City Planning Dept TRAKiT](http://pdatrakit.redwoodcity.org/ActivitySearch.aspx)
+
+* [SMC Planning and Building Online Permit Center](https://aca.accela.com/smcgov/)
+
+* [Lands associated with the Williamson Act](https://data.smcgov.org/Environment/Lands-associated-with-the-Williamson-Act/883b-b5g8)  
+  Click on parcel for details.  
+  Geojson data.
+
+* [Ascension Heights Project](https://data.smcgov.org/dataset/Ascension-Heights-Project/67hb-uhf4)  
+  [Ascension Heights Project by Position Map](https://data.smcgov.org/dataset/Ascension-Heights-Project-by-Position-Map/bqrn-tryv)  
+  No description.  What is this?
+
+* [Spheres of Influence Boundaries](https://data.smcgov.org/Government/Spheres-of-Influence-Boundaries/mzrz-v3zc)
+
+* [Urban/Rural Boundaries](https://data.smcgov.org/Housing-Development/Urban-Rural-Boundaries/s33m-qp8b)
+
+* [County Facilities](https://data.smcgov.org/Government/County-Facilities/ayvx-4r2n)
+
+### Other Public Data Sources
+
+* [Municode for SMC, CA](https://www2.municode.com/library/ca/san_mateo_county/codes/code_of_ordinances)
+
+* [SMC Public WOrks Standard Drawings](http://publicworks.smcgov.org/standard-drawings-driveways-sidewalks-trenches-etc)  
+  Driveways, sidewalks, trenches, etc
+
 ## Human services
+
+### data.smcgov.org Open Data
 
 * [Veterans Services Office Service Locations](https://data.smcgov.org/Health-Human-Services/Veterans-Services-Office-Service-Locations/xp6v-a4n2)  
   [Veterans Services Office Service Locations Map](https://data.smcgov.org/Health-Human-Services/Veterans-Services-Office-Service-Locations-Map/qnid-p96k)  
@@ -218,12 +371,30 @@ date:   2016-05-05 18:00:00
 * [Mobile Clinic Locations](https://data.smcgov.org/Health-Human-Services/Mobile-Clinic-Locations/wfct-ibg4)  
   [Mobile Clinic Locations Map](https://data.smcgov.org/Health-Human-Services/Mobile-Clinic-Locations-Map/qe43-ju63)
 
+* [lu Vaccine Clinics](https://data.smcgov.org/Health-Human-Services/Flu-Vaccine-Clinics/dmz9-a27g)  
+  [Map of Flu Vaccine Clinics for the 2014-2015](https://data.smcgov.org/Health-Human-Services/Map-of-Flu-Vaccine-Clinics-for-the-2014-2015-Flu-S/qtbp-vv4y)
+
+* [Children's Physical Fitness by City 2014](https://data.smcgov.org/Health-Human-Services/Children-s-Physical-Fitness-by-City-2014/63s8-zf2w)  
+  [Children's Physical Fitness by City 2014](https://data.smcgov.org/Health-Human-Services/Children-s-Physical-Fitness-by-City-Map/dthn-57nm)  
+  Needs to be updated with current data by County.
+
+* [SMC Health and Human Services Adult Mental Health Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/Adult-Mental-Health-Services.aspx)
+
+* [SMC Health and Human Services Mental Health Crisis Residential Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/SP-Crisis-Residential-Services.aspx)  
+  Not a dataset
+
+### Other Public Data Sources
+
 ## Children
+### data.smcgov.org Open Data
 
 * [Foster Care Children By Age, 2004-2013](https://data.smcgov.org/Health-Human-Services/Foster-Care-Children-By-Age/8cpi-m3m4)  
   Needs to be updated with current data by County.
 
+### Other Public Data Sources
+
 ## Elderly
+### data.smcgov.org Open Data
 * [Senior Housing Apartments](https://data.smcgov.org/Health-Human-Services/Senior-Housing-Apartments/333x-h65u)  
   [Senior Housing Apartments Map](https://data.smcgov.org/Health-Human-Services/Senior-Housing-Apartments-Map/3vuf-fxez)
 
@@ -232,11 +403,18 @@ date:   2016-05-05 18:00:00
 
 * [Part I and Part II Crimes, 1985-2015](https://data.smcgov.org/Public-Safety/Part-I-and-Part-II-Crimes/ypmp-fvf8)
 
+### Other Public Data Sources
+
 ## County services/requests
+### data.smcgov.org Open Data
 
 * [Reports from Report It! SMC](https://data.smcgov.org/Environment/Reports-from-Report-It-SMC/4u6x-x6rk)  
   [Report It! SMC map](https://data.smcgov.org/Environment/Report-It-SMC-map/j8cp-ytkq)  
   311 requsts from County unincorporated areas entered via Report It moble app.
+
+* [211 Bay Area](http://211bayarea.org/)  
+211 service directory information.  
+Run by United Way.
 
 * An experimental open211 services directory  
   [RLH_open211](https://data.smcgov.org/Government/RLH_open211/mg6f-byut)  
@@ -244,7 +422,28 @@ date:   2016-05-05 18:00:00
   Like calling 211. For any government service, not just human services.  
   An OpenSMC project.
 
-#Useful development data sets
+* [City of San Mateo MyStreets (MyStreetMap???)](http://gis.cityofsanmateo.org/mygovernmentservices/)  
+  City GIS style ArcGIS map of MySreet
+
+* [SeeClickFix, San Mateo County, CA](http://en.seeclickfix.com/san-mateo-county)
+
+## Useful Development Data Sets
+### data.smcgov.org Open Data
+
+* [DATAUSA.io San Mateo, CA](http://datausa.io/profile/geo/san-mateo-ca/)  
+  San Mateo demographics
+
+* [DATA.GOV SMC Search](https://catalog.data.gov/dataset?tags=san+mateo+county)
+
+* [Data OpenSMC is looking for](https://github.com/opensmc/service-locator/blob/master/docs/designnotes.md)
+
+* [Unincorporated Area Boundaries](https://data.smcgov.org/Government/Unincorporated-Areas/a8g9-kbay)  
+  Click on name to see name.
+
+* [San Mateo County Boundary](https://data.smcgov.org/Government/San-Mateo-County-Boundary/h5ac-k23p)  
+
+  [SFO_Internation_Airport](https://data.smcgov.org/Environment/SFO_Internation_Airport/wjeh-i6nz)  
+  Geojson data
 
 * [SMC Long/Lat coordinates](https://data.smcgov.org/Education/LongLat-coordinates/h5sa-hb7k)
   A long/lat grid in .01 increments.  Useful for finding bounding boxes.  
@@ -253,20 +452,32 @@ date:   2016-05-05 18:00:00
 
 * [Census data by Census Tracts 2010 ](https://data.smcgov.org/Government/Census-data-by-Census-Tracts-2010/8nx6-scka)
 
-* [Locations for Measure A Maps](https://data.smcgov.org/Government/Locations-for-Measure-A-Maps/j37i-tsr5)  
-  [Locations for Measure A Maps map](https://data.smcgov.org/Government/Locations-for-Measure-A-Maps-map/vy6h-fjvb)  
-  Updated March, 2016
-
-* [City and Unincorporated Areas Boundary Maps](https://data.smcgov.org/Government/City-and-Unincorporated-Areas/qi92-3tzq)
-
-## Unsorted
-
-* [Public Wifi Locations and Status](https://data.smcgov.org/Government/Public-Wifi-Locations-and-Status/4uz3-p92v)  
-  [Public Wifi Location Map](https://data.smcgov.org/Government/Public-Wifi-Locations/vtup-zh9i)
-
 * [Census Tract Boundaries 2010 Map](https://data.smcgov.org/Government/Census-Tracts-2010-Map/hkd6-ee5j)  
   Demographic data for San Mateo County.  
   Click on a track to see Census data.
+
+* [Census Designated Places, 2014](https://data.smcgov.org/Government/Census-Designated-Places/3knn-9sv3)  
+  Click on area for details.
+
+* [Unincorporated Area Boundaries](https://data.smcgov.org/Government/Unincorporated-Areas/a8g9-kbay)  
+  Click on name to see name.
+
+* [San Mateo County Boundary](https://data.smcgov.org/Government/San-Mateo-County-Boundary/h5ac-k23p)  
+
+  [SFO_Internation_Airport](https://data.smcgov.org/Environment/SFO_Internation_Airport/wjeh-i6nz)  
+  Geojson data
+
+* [City and Unincorporated Areas Boundary Maps](https://data.smcgov.org/Government/City-and-Unincorporated-Areas/qi92-3tzq)
+
+### Other Public Data Sources
+
+* [SMC-Connect / Ohana API Server](https://ohana-api-demo.herokuapp.com/)  
+  Ohana API developer portal
+
+* [SMC-Connect Ohana API Documentation](https://codeforamerica.github.io/ohana-api-docs)
+
+## Parks and Open Space
+### data.smcgov.org Open Data
 
 * [Parks & Beaches Boundaries](https://data.smcgov.org/Environment/Parks-Beaches/e2yb-skq9)
   Click on park or beach to see details.
@@ -294,87 +505,29 @@ date:   2016-05-05 18:00:00
   Click on trail to see details.
   Geojson data.
 
-* [Caltrain Route](https://data.smcgov.org/Transportation/Caltrain-Routes/upph-wy44)  
-  [Caltrain Stations and Stops](https://data.smcgov.org/Transportation/Caltrain-Stations-and-Stops/jzd3-rqcd)  
-  Created from the Caltrain General Transit Feed Specification (GTFS) data
-  Geojson data.
+### Other Public Data Sources
 
+* [OpenTrails Data](http://www.opentraildata.org/)
 
-* [samTrans Bus Routes](https://data.smcgov.org/Transportation/samTrans-Bus-Routes/ibrw-4fgd)  
-  Created from samTrans General Transit Feed Specification (GTFS) data
+## Public Services
 
-* [BART Station Entrances](https://data.smcgov.org/Transportation/BART-Station-Entrances/e5hr-a4sk)  
-  [BART Lines](https://data.smcgov.org/Transportation/BART-Lines/ni6s-89wu)  
-  Geojson data.
-
-* [Local Government Map](https://data.smcgov.org/Government/Local-Government-Map/96hc-gfis)  
-  [Assembly Districts](https://data.smcgov.org/Government/Assembly-Districts/4nu7-mmwa)  
-  [Senate Districts](https://data.smcgov.org/Government/Senate-Districts/bnnz-szvq)  
-  [Supervisor Districts](https://data.smcgov.org/Government/Supervisor-Districts/hsui-yfkm)  
-  [Supervisor Districts Land Only](https://data.smcgov.org/Government/Supervisor-Districts-Land-Only/99ji-5gty)  
-  Supervisorial, Assembly districts, and election precincts in San mateo County.
-
-* [General Plan Land Use for San Mateo County](https://data.smcgov.org/Government/General-Plan-Land-Use-for-San-Mateo-County/f2wq-qjt4)  
-  Land use type boundaries in unincorporated San Mateo County.
-
-* [Unincorporated Area Boundaries](https://data.smcgov.org/Government/Unincorporated-Areas/a8g9-kbay)  
-  Click on name to see name.
-
-* [San Mateo County Boundary](https://data.smcgov.org/Government/San-Mateo-County-Boundary/h5ac-k23p)  
-  [SFO_Internation_Airport](https://data.smcgov.org/Environment/SFO_Internation_Airport/wjeh-i6nz)  
-  Geojson data
-
-* [lu Vaccine Clinics](https://data.smcgov.org/Health-Human-Services/Flu-Vaccine-Clinics/dmz9-a27g)  
-  [Map of Flu Vaccine Clinics for the 2014-2015](https://data.smcgov.org/Health-Human-Services/Map-of-Flu-Vaccine-Clinics-for-the-2014-2015-Flu-S/qtbp-vv4y)
-
-* [Children's Physical Fitness by City 2014](https://data.smcgov.org/Health-Human-Services/Children-s-Physical-Fitness-by-City-2014/63s8-zf2w)  
-  [Children's Physical Fitness by City 2014](https://data.smcgov.org/Health-Human-Services/Children-s-Physical-Fitness-by-City-Map/dthn-57nm)  
-  Needs to be updated with current data by County.
-
-* [Lands associated with the Williamson Act](https://data.smcgov.org/Environment/Lands-associated-with-the-Williamson-Act/883b-b5g8)  
-  Click on parcel for details.  
-  Geojson data.
-
-* [Solid Waste Sites](https://data.smcgov.org/Environment/Solid-Waste-Sites/t7gz-qn8a)  
-  [Solid Waste Sites Map](https://data.smcgov.org/Environment/Solid-Waste-Sites-Map/6y3f-3ryi)
-
-* [Solid Waste Sites](https://data.smcgov.org/Environment/Solid-Waste-Sites/t7gz-qn8a)  
-  [Solid Waste Sites Map](https://data.smcgov.org/Environment/Solid-Waste-Sites-Map/6y3f-3ryi)
+* [Public Wifi Locations and Status](https://data.smcgov.org/Government/Public-Wifi-Locations-and-Status/4uz3-p92v)  
+  [Public Wifi Location Map](https://data.smcgov.org/Government/Public-Wifi-Locations/vtup-zh9i)
 
 * [Sandbag Locations](https://data.smcgov.org/Public-Safety/Sandbag-Locations/d4dw-tc3r)  
   [Sandbag locations map](https://data.smcgov.org/Public-Safety/Sandbag-locations-map/jx9v-a8kh)
 
-* [Water Supply and Source Boundaries](https://data.smcgov.org/Housing-Development/Water-Supply-and-Sources/pzq7-uphk)  
-  Click on area to see details.
+* [San Mateo 911 Fire Dispach](http://www.firedispatch.com/)  
+  Realtime 911 dispach data.  
+  No API access
 
-* [Fire Hazard Boundaries](https://data.smcgov.org/Government/Fire-Hazard-Boundaries/f6y6-nwd3)  
-  [Fire Hazards State and Local Responsibility Areas](https://data.smcgov.org/Housing-Development/Fire-Hazards-State-and-Local-Responsibility-Areas/ctq4-9kpp)  
-  Geojson data.
+### data.smcgov.org Open Data
 
-* [Ascension Heights Project](https://data.smcgov.org/dataset/Ascension-Heights-Project/67hb-uhf4)  
-  [Ascension Heights Project by Position Map](https://data.smcgov.org/dataset/Ascension-Heights-Project-by-Position-Map/bqrn-tryv)  
-  No description.  What is this?
+### Other Public Data Sources
 
-* [Spheres of Influence Boundaries](https://data.smcgov.org/Government/Spheres-of-Influence-Boundaries/mzrz-v3zc)
+## San Mateo County ArcGIS data portals
 
-* [Urban/Rural Boundaries](https://data.smcgov.org/Housing-Development/Urban-Rural-Boundaries/s33m-qp8b)
-
-
-* [Census Designated Places, 2014](https://data.smcgov.org/Government/Census-Designated-Places/3knn-9sv3)  
-  Click on area for details.
-
-* [County Facilities](https://data.smcgov.org/Government/County-Facilities/ayvx-4r2n)
-
-* [High School Districts](https://data.smcgov.org/Education/High-School-Districts/n487-e7f4)
-
-
-* [Village Green discussion of bayarea election data available](http://www.bionictoad.com/village/)
-
-* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
-
-* [SMC Open Data Performance tracking](https://performance.smcgov.org/en/stat/goals/single/fspv-vjm9)
-
-* [Data OpenSMC is looking for](https://github.com/opensmc/service-locator/blob/master/docs/designnotes.md)
+### maps.smcgov.org Open Data
 
 * [ArcGIS REST Services Directory](https://maps.smcgov.org/arcgis/rest/services)  
 * [ArcGIS REST Services COMMON dataset](https://maps.smcgov.org/arcgis/rest/services/COMMON)  
@@ -384,81 +537,26 @@ date:   2016-05-05 18:00:00
 * [ArcGIS REST Services Directory GISPORTAL - PARCEL_LABELS](http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/PARCEL_LABELS/MapServer/)  
 Assessors Parcel Data
 
-* [211 Bay Area](http://211bayarea.org/)  
-211 service directory information.  
-Run by United Way.
+### Other Public Data Sources
 
-* SMC Treasurer-Tax Collector's [Secured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/secureSearch.jsp)  
-  Search by Assessor Parcel Number (APN).  
-* SMC Treasurer-Tax Collector's [Unecured Property Tax search form](http://www.sanmateocountytaxcollector.org/SMCWPS/pages/unSecSearch.jsp)  
-  Search by Parcel or  Address or  Account
-
-* [SMC Assessor's detailed parcel query form](http://gis.co.sanmateo.ca.us/countygis/applications/gisapp_PropReviewMap.asp?APN=032167140)  
-Replace 032167140 with your APN number
-
-* [SamTrans Developer Datasets](http://www.samtrans.com/Developer.html)  
-  SamTrans provides official bus schedules, maps and fare information in the open General Transit Feed Specification (GTFS).
-
-* [OpenTrails Data](http://www.opentraildata.org/)
-
-* [DATA.GOV SMC Search](https://catalog.data.gov/dataset?tags=san+mateo+county)
-
-* [SMC-Connect / Ohana API Server](https://ohana-api-demo.herokuapp.com/)  
-  Ohana API developer portal
-
-* [City of San Mateo MyStreets (MyStreetMap???)](http://gis.cityofsanmateo.org/mygovernmentservices/)  
-  City GIS style ArcGIS map of MySreet
-
-* [SeeClickFix, San Mateo County, CA](http://en.seeclickfix.com/san-mateo-county)
-
-* [SMC Department of Housing Statistics](http://housing.smcgov.org/housing-statistics)
+## City Specific web portals
 
 * [Redwood City Community GIS Porta;](webgis.redwoodcity.org/community/)  
   Best GIS portal I have seen.  Great layout.  Lots of space for the map.
-
-* [Redwood City Planning Dept TRAKiT](http://pdatrakit.redwoodcity.org/ActivitySearch.aspx)
-
-* [San Mateo County Office of Education (SMCOE)](http://www.smcoe.org/)
 
 * [City of San Mateo Web Site](http://www.cityofsanmateo.org/index.aspx)  
   CivicPlus Web Site
 
 * [City of San Mateo GIS Map Portal](http://www.cityofsanmateo.org/index.aspx?NID=2217)
 
-* [Municode for SMC, CA](https://www2.municode.com/library/ca/san_mateo_county/codes/code_of_ordinances)
-
-* [SMC Public WOrks Standard Drawings](http://publicworks.smcgov.org/standard-drawings-driveways-sidewalks-trenches-etc)  
-  Driveways, sidewalks, trenches, etc
-
 * [SMC Human Services Center on Homelessness](http://hsa.smcgov.org/center-homelessness)
-
-* [SMC Health and Human Services Adult Mental Health Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/Adult-Mental-Health-Services.aspx)
-
-* [SMC Health and Human Services Mental Health Crisis Residential Services](http://www.dhhs.saccounty.net/BHS/Pages/Adult-Mental-Health/SP-Crisis-Residential-Services.aspx)  
-  Not a dataset
 
 * [City of South San Francisco Web site](http://ssf.net/)  
   CivicPlus web site.
 
-* [San Mateo 911 Fire Dispach](http://www.firedispatch.com/)  
-  Realtime 911 dispach data.  
-  No API access
+## foo
 
-* [DATAUSA.io San Mateo, CA](http://datausa.io/profile/geo/san-mateo-ca/)  
-  San Mateo demographics
+### data.smcgov.org Open Data
 
-* [SMC Elections Office Election Results](https://www.shapethefuture.org/elections/results/)  
-Not a dataset
-
-* [SMC Planning and Building Online Permit Center](https://aca.accela.com/smcgov/)
-
-* [Ballotpedia: San Mateo County, California ballot measures](https://ballotpedia.org/San_Mateo_County,_California_ballot_measures)
-
-* [Bayarea Metropolita Transportation Commission (MTC)](http://mtc.ca.gov/)
-)
-* [Bayarea MTA VitalSigns Open Data portal](http://www.vitalsigns.mtc.ca.gov/)  
-* [Metropolitan Transportation Commission (MTC) Vital Signs Open Data](http://www.vitalsigns.mtc.ca.gov/data-center)
-
-
-* [SMC-Connect Ohana API Documentation](https://codeforamerica.github.io/ohana-api-docs)
+### Other Public Data Sources
 
